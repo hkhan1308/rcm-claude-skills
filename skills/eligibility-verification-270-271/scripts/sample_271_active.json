@@ -1,0 +1,7 @@
+{
+  "eligibility_status": "active",
+  "plan_name": "PPO Gold 1000",
+  "effective_date": "20260101",
+  "service_covered": true,
+  "prior_auth_required": true
+}
